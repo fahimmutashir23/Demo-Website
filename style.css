@@ -50,7 +50,7 @@
 .bannar{
     height: 100vh;
     background-image: url(background.png),
-    linear-gradient(45deg, black, rgb(51, 45, 45));
+    linear-gradient(45deg, rgb(18, 13, 37), rgb(50, 50, 50));
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -90,7 +90,8 @@ span{
 }
 .about{
     background-color: bisque;
-    background-image: url(images/background\ 1.jpg);
+    background-image: linear-gradient(rgba(0, 215, 4, 0.534),rgba(251, 2, 2, 0.788)), url(images/background\ 1.jpg);
+    
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
