@@ -160,4 +160,7 @@ section h1{
 .box .btn{
     margin-top: 10px;
 }
+.box p{
+    text-align: justify;
+}
 /* our service section end */
